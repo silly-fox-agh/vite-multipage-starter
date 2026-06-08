@@ -98,7 +98,7 @@ addArticleBtn.addEventListener('click', () => {
     modal.classList.remove('hidden');
   } else {
     // Jeśli niezalogowany: przekierowujemy na stronę logowania
-    window.location.href = '/login.html';
+    window.location.href = './login.html';
   }
 });
 

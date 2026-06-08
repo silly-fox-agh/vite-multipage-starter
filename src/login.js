@@ -23,5 +23,5 @@ loginForm.addEventListener('submit', async (event) => {
   }
 
   // Jeśli logowanie się uda, przekieruj na stronę główną
-  window.location.href = '/';
+  window.location.href = './';
 });
